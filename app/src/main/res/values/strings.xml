@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TinyChat</string>
+
+    <string name="disconnect">Disconnected</string>
+
+    <string name="connect">Connected</string>
+
+
+</resources>
